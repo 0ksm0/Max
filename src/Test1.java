@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class Test1 {
     @Test
     public void testMaxTrue(){
-        assertEquals(10,Max.Max(4,6));
+        assertEquals(6,Max.Max(4,6));
 
     }
 
